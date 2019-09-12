@@ -1,0 +1,6 @@
+{
+  "ConnectionString": {
+
+      "QuickBuyDB": "server=127.0.0.1;uid=root;pwd=mar15l82;databade=QuickBuyDB"
+    }  
+  }

@@ -1,0 +1,12 @@
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\bin\Debug\netcoreapp2.1\Dominio.QuickBuy.dll
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.csprojAssemblyReference.cache
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.csproj.CoreCompileInputs.cache
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.AssemblyInfoInputs.cache
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.AssemblyInfo.cs
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\bin\Debug\netcoreapp2.1\Repositorio.QuickBuy.deps.json
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\bin\Debug\netcoreapp2.1\Repositorio.QuickBuy.dll
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\bin\Debug\netcoreapp2.1\Repositorio.QuickBuy.pdb
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\bin\Debug\netcoreapp2.1\Dominio.QuickBuy.pdb
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.csproj.CopyComplete
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.dll
+C:\ProjetosGrupo2MSftware\QuickBuy\QuickBuy\Repositorio.QuickBuy\obj\Debug\netcoreapp2.1\Repositorio.QuickBuy.pdb
